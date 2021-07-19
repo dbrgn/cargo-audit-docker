@@ -1,5 +1,5 @@
-#!/bin/bash
-set -euo pipefail
+#!/bin/sh
+set -eo pipefail
 
 DOCKER_IMAGE=dbrgn/cargo-audit
 
